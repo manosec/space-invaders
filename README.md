@@ -3,7 +3,7 @@ Game Powered by pygame
 
 # Play in your machine
 
-1. git clone https://github.com/manosec/space_invaders.git
+1. git clone https://github.com/manosec/space-invaders.git
 
 2. cd space_invaders
 
